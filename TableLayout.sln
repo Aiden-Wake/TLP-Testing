@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1525
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableLayout", "TableLayout\TableLayout.csproj", "{2FA29E09-9BC1-4B5A-9141-E9C31B63916E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FA29E09-9BC1-4B5A-9141-E9C31B63916E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FA29E09-9BC1-4B5A-9141-E9C31B63916E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FA29E09-9BC1-4B5A-9141-E9C31B63916E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FA29E09-9BC1-4B5A-9141-E9C31B63916E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE56042C-F81C-4BC8-8E8D-978E7EF66422}
+	EndGlobalSection
+EndGlobal
